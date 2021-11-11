@@ -1,10 +1,12 @@
 {
     "name": "flycorp/laravel-firebird",
+    "description": "A Firebird database package for the Laravel Framework",
+    "license": "MIT",
     "version": "1.0.0.0",
     "authors": [
         {
-            "name": "Central Farma Dev",
-            "email": "70100216+CentralFarma@users.noreply.github.com"
+            "name": "Jacques van Zuydam and raylam ribeiro",
+            "email": "railam2010@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -20,5 +22,4 @@
         "Firebird\\": "src/"
       }
     }
-
 }
