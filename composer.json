@@ -1,5 +1,6 @@
 {
     "name": "flycorp/laravel-firebird",
+    "version": "1.0.0.0",
     "authors": [
         {
             "name": "Central Farma Dev",
