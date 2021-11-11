@@ -1,5 +1,5 @@
 {
-    "name": "railamribeiro/laravel-firebird",
+    "name": "flycorp/laravel-firebird",
     "autoload": {
         "psr-4": {
             "Railamribeiro\\LaravelFirebird\\": "src/"
