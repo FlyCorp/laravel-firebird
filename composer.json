@@ -1,15 +1,23 @@
 {
     "name": "flycorp/laravel-firebird",
-    "autoload": {
-        "psr-4": {
-            "Railamribeiro\\LaravelFirebird\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Central Farma Dev",
             "email": "70100216+CentralFarma@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.0.0",
+      "illuminate/support": "~5.5",
+      "illuminate/container": "~5.5",
+      "illuminate/database": "~5.5",
+      "illuminate/events": "~5.5"
+    },
+    "autoload":{
+      "psr-0": {
+        "Firebird\\": "src/"
+      }
+    }
+
 }
