@@ -1,0 +1,15 @@
+{
+    "name": "railamribeiro/laravel-firebird",
+    "autoload": {
+        "psr-4": {
+            "Railamribeiro\\LaravelFirebird\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Central Farma Dev",
+            "email": "70100216+CentralFarma@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
